@@ -1,7 +1,7 @@
 # Curso MongoDb com C# gratuito
 Curso rápido onde ensino criar um banco de dados [NoSQL] com [MongoDB] no [C#].
 
-### O que irei aprender no curso?
+### O que irei apresentar no curso?
  Para facilitar a vida de vocês, eu resolvi criar um curso rápido focado na prática, neste curso você irá aprender. 
  * Quais ferramentas você deverá usar 
  * Como montar o ambiente do MongoDb 
