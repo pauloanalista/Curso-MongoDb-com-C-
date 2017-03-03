@@ -1,0 +1,13 @@
+D:\aulamongo\Agenda\Agenda\bin\Debug\Agenda.exe.config
+D:\aulamongo\Agenda\Agenda\bin\Debug\Agenda.exe
+D:\aulamongo\Agenda\Agenda\bin\Debug\Agenda.pdb
+D:\aulamongo\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+D:\aulamongo\Agenda\Agenda\obj\Debug\Agenda.exe
+D:\aulamongo\Agenda\Agenda\obj\Debug\Agenda.pdb
+D:\aulamongo\Agenda\Agenda\bin\Debug\MongoDB.Bson.dll
+D:\aulamongo\Agenda\Agenda\bin\Debug\MongoDB.Driver.Core.dll
+D:\aulamongo\Agenda\Agenda\bin\Debug\MongoDB.Driver.dll
+D:\aulamongo\Agenda\Agenda\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\aulamongo\Agenda\Agenda\bin\Debug\MongoDB.Bson.xml
+D:\aulamongo\Agenda\Agenda\bin\Debug\MongoDB.Driver.xml
+D:\aulamongo\Agenda\Agenda\bin\Debug\MongoDB.Driver.Core.xml
