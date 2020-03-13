@@ -16,3 +16,12 @@ Curso rápido onde ensino criar um banco de dados [NoSQL] com [MongoDB] no [C#].
 Clique no link abaixo para acessar o curso
 
 http://ilovecode.com.br/curso-mongodb-com-c-em-portugues-gratuito/
+
+
+# VEJA TAMBÉM
+## Cursos baratos!
+- [Meus cursos](https://olha.la/udemy)
+
+## Novidades, cupons de descontos e cursos gratuitos
+https://olha.la/ilovecode-receber-cupons-novidades
+
